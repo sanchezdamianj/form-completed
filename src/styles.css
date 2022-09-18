@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Blaka&family=Inter&family=Montserrat:wght@800&family=Roboto:wght@100;400&family=VT323&display=swap');
+* {
+    box-sizing: border-box;
+}
+body {
+    background: #e1e1e1;
+    font-family: 'Roboto', sans-serif;
+}
